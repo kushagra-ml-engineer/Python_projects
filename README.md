@@ -32,25 +32,25 @@ Repository Structure
 python-projects
 │
 ├── beginner
-│   ├── quiz_game
-│   ├── number_guessing_game
-│   ├── rock_paper_scissors
-│   ├── madlibs_generator
+1. quiz_game
+2. number_guessing_game
+3. rock_paper_scissors
+4. adlibs_generator
 
 │
 ├── intermediate
-│   ├── password_manager
-│   ├── slot_machine
-│   ├── turtle_race_game
-│   ├── typing_speed_test
+1. password_manager
+2. slot_machine
+3. turtle_race_game
+4. typing_speed_test
 │
 
-├── advanced
+├── Advanced
 
-│   ├── youtube_downloader
-│   ├── currency_converter
-│   ├── aim_trainer
-│   ├── file_automation_scripts
+1. youtube_downloader
+2. currency_converter
+3. aim_trainer
+4. file_automation_scripts
 │
 └── README.md
 Projects Included
