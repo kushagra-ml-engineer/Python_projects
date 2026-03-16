@@ -51,8 +51,10 @@ python-projects
 2. currency_converter
 3. aim_trainer
 4. file_automation_scripts
-│
-└── README.md
+
+
+
+README.md
 Projects Included
 Beginner Level
 
